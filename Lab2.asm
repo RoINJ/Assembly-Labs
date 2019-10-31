@@ -1,7 +1,7 @@
 .model flat
 .data
-a DB 1
-b DB 0
+a DB 6
+b DB 4
 x DW -20
 y DW ?
 
